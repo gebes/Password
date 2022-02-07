@@ -16,5 +16,3 @@ GLOBAL OPTIONS:
    --help, -h  show help
 
 ```
-
-## Example usage
